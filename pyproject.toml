@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "california-housing-ml-portfolio"
-version = "1.0.0"
-description = "Leakage-safe geographical evaluation of California housing prices"
+version = "0.1.0"
+description = "Student regression project with a geographic train/test split"
 requires-python = ">=3.10"
 dependencies = [
   "numpy>=1.24,<3",

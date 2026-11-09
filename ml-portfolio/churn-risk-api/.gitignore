@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.DS_Store
+data/raw/
+artifacts/*.joblib
+artifacts/*.json
+artifacts/*.csv
+reports/*.png
+
+reports/*.csv
+reports/*.json
+catboost_info/
